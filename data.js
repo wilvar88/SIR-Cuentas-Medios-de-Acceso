@@ -56,10 +56,10 @@ window.BUTTONS = [
     }
   },
   {
-    x: 19.8, y: 38.4,
+    x: 19.8, y: 38.4,// Movimientos
     label: "+",
-    href: "https://wilvar88.github.io/SIR-2/",
-    target: "blank",
+    href: "https://wilvar88.github.io/SIR-Cuentas-Movimientos/",
+    target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
     variant: "transparent",
@@ -78,10 +78,10 @@ window.BUTTONS = [
     }
   },
   {
-    x: 38.7, y: 38.3,
+    x: 38.7, y: 38.3, // Op Saldo
     label: "+",
-    href: "https://wilvar88.github.io/SIR-2/",
-    target: "blank",
+    href: "https://wilvar88.github.io/SIR-Cuentas-Op.Saldo/",
+    target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
     variant: "transparent",
@@ -100,10 +100,10 @@ window.BUTTONS = [
     }
   },
   {
-    x: 53.7, y: 38.3,
+    x: 53.7, y: 38.3, //Notificaciones
     label: "+",
-    href: "https://wilvar88.github.io/SIR-2/",
-    target: "blank",
+    href: "https://wilvar88.github.io/SIR-Cuentas-Notificaciones/",
+    target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
     variant: "transparent",
